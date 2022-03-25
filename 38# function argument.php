@@ -8,3 +8,5 @@ function sayhello($name="bintang", $lastname)
 sayhello("rifky","");
 sayhello("febrian","");
 sayhello("","");
+
+//aku masih belum tau jelas tentang materi ini harus pelajari lagi
